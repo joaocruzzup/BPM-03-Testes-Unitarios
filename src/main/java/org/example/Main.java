@@ -2,7 +2,7 @@ package org.example;
 
 public class Main {
 
-    static Turma turma = new Turma();
+    public static Turma turma = new Turma();
 
     public static void main(String[] args) throws Exception {
         Pessoa pessoa1 = new Pessoa(1, "Fulano");
